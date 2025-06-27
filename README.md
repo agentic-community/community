@@ -1,15 +1,15 @@
-## My Project
+## Agentic-Community/community
 
-TODO: Fill this README out!
+Welcome to the Agentic Community community repository. This repository hosts our onboarding guide, organizational documents, facilitates
+our discussions with more functionality to come. 
 
-Be sure to:
+## Onboarding
 
-* Change the title in this README
-* Edit your repository description on GitHub
+See [ONBOARDING](ONBOARDING.md) for the most recent information.
 
-## Security
+## Discussions
 
-See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
+Join the [discussions](https://github.com/agentic-community/community/discussions)
 
 ## License
 
