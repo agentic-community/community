@@ -1,8 +1,7 @@
 ## Agentic-Community/community
 
-Welcome to the Agentic Community community repository. This repository hosts our onboarding guide, organizational
-documents, facilitates
-our discussions with more functionality to come.
+Welcome to the Agentic Community. This repository hosts our onboarding guide, organizational documents, and facilitates
+our discussions, with more functionality to come.
 
 ## Onboarding
 
