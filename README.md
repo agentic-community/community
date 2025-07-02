@@ -2,8 +2,8 @@
 
 🤖 Welcome to the Agentic Community
 
-The Agentic Community is an open initiative focused on building practical, production-ready frameworks for autonomous
-agents that operate across systems, organizations, and levels of autonomy.
+The Agentic Community is an open initiative focused on building practical, production-ready reference architectures and
+implementations for agents that operate across systems, organizations, and levels of autonomy.
 
 🧭 Key Factors:
 
@@ -19,7 +19,7 @@ collaboration, working groups, and hands-on code.
 
 🗂️ What’s in This Repo
 
-- 📜 charter.md – Community charter and principles
+- 📜 [charter.md](./charter.md) – Community charter and principles
 - 💬 [discussions](https://github.com/agentic-community/community/discussions) – Active topics and proposal threads
 - 🛠️ reference-architectures/ – Blueprint projects for real-world agentic use cases
 - 📄 whitepapers/ – In-depth guides on agent autonomy, interoperability, and control
