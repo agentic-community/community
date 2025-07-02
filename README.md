@@ -1,15 +1,45 @@
 ## Agentic-Community/community
 
-Welcome to the Agentic Community. This repository hosts our onboarding guide, organizational documents, and facilitates
-our discussions, with more functionality to come.
+🤖 Welcome to the Agentic Community
+
+The Agentic Community is an open initiative focused on building practical, production-ready frameworks for autonomous
+agents that operate across systems, organizations, and levels of autonomy.
+
+🧭 Key Factors:
+
+- 🏗️ Vendor-neutral — focused on open patterns, not proprietary tools
+- 🌐 Cross-organizational — designed for real-world coordination across teams and companies
+- 🔍 Transparency-first — prioritizing observability, explainability, and governance
+- ⚙️ Production-minded — our patterns and reference architectures are meant to be deployed, not just demoed
+
+We’re here to bridge the gap between research prototypes and enterprise-grade agentic systems—through community-driven
+collaboration, working groups, and hands-on code.
+
+---
+
+🗂️ What’s in This Repo
+
+- 📜 charter.md – Community charter and principles
+- 💬 [discussions](https://github.com/agentic-community/community/discussions) – Active topics and proposal threads
+- 🛠️ reference-architectures/ – Blueprint projects for real-world agentic use cases
+- 📄 whitepapers/ – In-depth guides on agent autonomy, interoperability, and control
+
+---
+
+🚀 Get Involved
+
+We welcome contributions of all kinds—code, use cases, critiques, and research insights.
+
+- Read our Community Charter
+- Join the conversation in [discussions](https://github.com/agentic-community/community/discussions)
+- Contribute to our working repos linked below
+- Propose new patterns or reference implementations
+
+🧠 Your experience and perspective can help shape the future of agentic AI—collaboratively, transparently, and openly.
 
 ## Onboarding
 
 See [ONBOARDING](ONBOARDING.md) for the most recent information.
-
-## Discussions
-
-Join the [discussions](https://github.com/agentic-community/community/discussions)
 
 ## Meetings
 
