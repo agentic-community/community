@@ -1,6 +1,6 @@
 ## Agentic-Community/community
 
-🚀 [Getting Started](ONBOARDING.md) | 🎥 [Meeting Recordings](https://drive.google.com/drive/folders/1RJVHprIStEz5_jWdl7QMMsJBRf_dKnOA)
+🚀 [Getting Started](ONBOARDING.md) | 🎥 [Meeting Recordings](https://drive.google.com/drive/folders/1RJVHprIStEz5_jWdl7QMMsJBRf_dKnOA) | 📧 [Google Group](https://groups.google.com/a/agentic-community.com/g/community)
 
 ### 🗓️ Weekly Meetings
 
@@ -8,7 +8,6 @@
     - 🕕 18:00–19:00 CET | 🕔 17:00–18:00 London | 🕘 09:00–10:00 PST
 - 🔗 [Google Meet](meet.google.com/xyf-ayxq-yge) |
   📅 [Google Calendar](https://calendar.google.com/calendar/embed?src=c_c2c61707db4ec15fc107e5d0f2e18714f06fe8b12c85812f0c6b99321ae4d354%40group.calendar.google.com&ctz=America%2FLos_Angeles) |
-  📧 [Google Group](https://groups.google.com/a/agentic-community.com/g/community) |
   📥 [.ics Download](https://calendar.google.com/calendar/ical/c_c2c61707db4ec15fc107e5d0f2e18714f06fe8b12c85812f0c6b99321ae4d354%40group.calendar.google.com/public/basic.ics)
 
 ### 💬 Slack
