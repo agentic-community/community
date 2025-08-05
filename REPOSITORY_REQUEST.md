@@ -39,4 +39,3 @@ marketing events.
 - We have a formal procedure in place to ensure adherence to security best practices for code.
 - Furthermore, we do not impede our progress, as we retain the capability to work collaboratively on GitHub until we are
   prepared to formally contribute our code to the community.
-
