@@ -6,7 +6,8 @@
 
 - **Every Friday**
     - 🕕 18:00–19:00 CET | 🕔 17:00–18:00 London | 🕘 09:00–10:00 PST
-- 🔗 [Google Meet](meet.google.com/xyf-ayxq-yge) |
+- 📄 [Meeting Notes](https://docs.google.com/document/d/1xZFILz12oDnjOkBTlJAE5zzZpxGy2jeK6oziN13ZFdw/edit?tab=t.0)
+  🔗 [Google Meet](meet.google.com/xyf-ayxq-yge) |
   📅 [Google Calendar](https://calendar.google.com/calendar/embed?src=c_c2c61707db4ec15fc107e5d0f2e18714f06fe8b12c85812f0c6b99321ae4d354%40group.calendar.google.com&ctz=America%2FLos_Angeles) |
   📥 [.ics Download](https://calendar.google.com/calendar/ical/c_c2c61707db4ec15fc107e5d0f2e18714f06fe8b12c85812f0c6b99321ae4d354%40group.calendar.google.com/public/basic.ics)
 
